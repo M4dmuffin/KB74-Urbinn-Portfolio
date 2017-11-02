@@ -16,7 +16,7 @@ Kevin van Veen | KB74 Applied Data Science |  30 augustus 2017
 5.5 [Spark](#spark) <br>
 
 # 1. Inleiding<a name="inleiding"></a> 
-URBINN is het LearningLab rondom autonoom rijdend vervoer binnen stedelijke gebieden (last mile). Binnen URBINN wordt een autonoom rijdend voertuig ontwikkeld dat als basis zal dienen om steeds verder te ontwikkelen en waar allerlei onderzoek op en mee gedaan zal gaan worden. Ik ben werkzaam geweest binnen de minor applied data science waarbij de focus lag bij het semantisch mappen en object detection. Voor meer informatie over deze minor of overige minoren binnen het Urbinn project zie de website van [Urbinnn](http://urbinn.nl/studenten/#1503314382730-7ee1aad3-63d9) 
+URBINN is het LearningLab rondom autonoom rijdend vervoer binnen stedelijke gebieden (last mile). Binnen URBINN wordt een autonoom rijdend voertuig ontwikkeld dat als basis zal dienen om steeds verder te ontwikkelen en waar allerlei onderzoek op en mee gedaan zal gaan worden. Ik ben werkzaam geweest binnen de minor applied data science waarbij de focus lag bij het semantisch mappen en object detection. Voor meer informatie over deze minor of overige minoren binnen het Urbinn project zie de website van [Urbinn](http://urbinn.nl/studenten/#1503314382730-7ee1aad3-63d9) 
 
 # 2. Scrum<a name="scrum"></a> 
 Binnen de deze minor is gekozen om te werken met de ontwikkelmethode Scrum. Als eerst is er een introductie workshop van Scrum gegeven om algemene kennis van Scrum te krijgen. 
