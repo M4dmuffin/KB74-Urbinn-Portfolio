@@ -37,4 +37,4 @@ Ik ben aangesteld als Scrummaster voor het project.
 Als Scrummaster bewaak ik het procesverloop binnen het team, probeer de teamleden te motiveren en te helpen bij obstakels waar 
 zij tegenaan lopen. Tevens heb ik een aantal verbeteringen doorgevoerd zodat de daily stand-ups efficiënter doorlopen kunnen worden. 
 Er kan gedacht worden aan het inzichtelijk maken van de werkzaamheden in verhouding met de tijd die per issue eraan besteed wordt. 
-Hierdoor creëer je een duidelijk tijdschema voor de issues en kan er betere timemanagement plaats vinden.
+Hierdoor creëer je een duidelijk tijdschema voor de issues en kan er betere timemanagement toegepast worden.
