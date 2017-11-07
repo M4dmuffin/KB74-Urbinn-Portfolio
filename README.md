@@ -24,8 +24,8 @@ Binnen de deze minor is gekozen om te werken met de ontwikkelmethode Scrum. Als 
 # 3. Producten<a name="producten"></a> 
 
 ## 3.1 Issues<a name="issues"></a> 
-Aangezien we met de Scrum methode werken waarbij elke sprint 2 weken duurt, plannen we elke maandag een moment in om de taken, oftewel issues, voor de aankomende sprint te bepalen. Dit doen we aan de hand van de online plannings board [Waffle] (https://waffle.io/urbinn/urbinn)
-De issues die in Waffle opgenomen worden zijn direct verbonden aan Git. Hierdoor worden de issues ook zichtbaar bijgehouden in [Git] (https://github.com/urbinn/urbinn) 
+Aangezien we met de Scrum methode werken waarbij elke sprint 2 weken duurt, plannen we elke maandag een moment in om de taken, oftewel issues, voor de aankomende sprint te bepalen. Dit doen we aan de hand van de online plannings board [Waffle](https://waffle.io/urbinn/urbinn)
+De issues die in Waffle opgenomen worden zijn direct verbonden aan Git. Hierdoor worden de issues ook zichtbaar bijgehouden in [Git](https://github.com/urbinn/urbinn) 
 
 In het onderstaande overzicht is een korte beschrijving gemaakt per issue waaraan ik heb gewerkt:
 
