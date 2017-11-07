@@ -90,13 +90,12 @@ Coursera biedt een specifieke cursus aan op het gebied van Machine Learning. Dez
 ## 5.3 Calling Bullshit<a name="calling_bullshit"></a> 
 Aan de hand van een drietal workshop genaamd "Calling bullshit in the age of big data" hebben wij de opdracht gekregen om een aantal verschillende soorten informatie kanalen te doorzoeken waarbij de informatie onjuist bleek te zijn. (link nog toevoegen)
 
-<br>
 ## 5.4 Notebooks<a name="notebooks"></a> 
 Gedurende het project waren er een aantal opdrachten die wij in de Phyton programeertaal moesten uitvoeren. Alle notebooks kunnen [hier](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/tree/master/Data/Notebooks/Python%20Notebooks) gevonden worden.
-<br>
+
 ## 5.5 Spark<a name="spark"></a>
 Gedurende het project waren er aantal opdrachten die wij moesten uitvoeren, betreffende Spark. Alle notebooks kunnen [hier](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/tree/master/Data/Notebooks/Spark%20Notebooks) gevonden worden.
-<br>
+
 
 
 
