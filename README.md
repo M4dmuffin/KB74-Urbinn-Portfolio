@@ -78,11 +78,8 @@ Gedurende deze minor heb ik meerdere cursussen en workshops gevolgd.
 DataCamp biedt trainingen aan voor het leren en toepassen van de programmeertaal Python in combinatie met een aantal van Machine Learning technieken. Deze cursus was een verplicht onderdeel gedurende de minor. 
 
 ## 5.2 Coursera<a name="coursera"></a> 
-<<<<<<< HEAD
-Coursera biedt een specifieke cursus aan op het gebied van Machine Learning. Deze cursus richt zich voornamelijk op het gebeid van lineaire regressie (algebra) en hoe je dit kan toepassen in Machine Learning. 
-=======
 Coursera biedt een specifieke cursus aan op het gebied van Machine Learning. Deze cursus richt zich voornamelijk op het gebied van lineaire regressie (algebra) en hoe je dit kan toepassen in Machine Learning. 
->>>>>>> origin/master
+
 
 ## 5.3 Calling Bullshit<a name="calling_bullshit"></a> 
 
