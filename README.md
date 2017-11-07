@@ -66,7 +66,7 @@ Gedurende het project hebben we een aantal close reading sessies gehouden. Dit i
 -[mur 2017 ORB-SLAM2.pdf](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Overige%20Producten/Close%20Reading/mur%202017%20ORB-SLAM2.pdf)
 
 **Sessie 2 – Woensdag 27 september 2017**<br>
--[You Only Look Once Unified, Real-Time Object Detection.pdf](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Overige%20Producten/Close%20Reading/You%20Only%20Look%20Once%20Unified%2C%20Real-Time%20Object%20Detection.pdf)
+-[You Only Look Once Unified, Real-Time Object Detection.pdf](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Overige%20Producten/Close%20Reading/You%20Only%20Look%20Once%20Unified%2C%20Real-Time%20Object%20Detection.pdf)<br>
 -[mustafah 2012 Stereo vision images processing for real-time object distance and size measurements.pdf](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Overige%20Producten/Close%20Reading/mustafah%202012%20Stereo%20vision%20images%20processing%20for%20real-time%20object%20distance%20and%20size%20measurements.pdf)
 
 
@@ -88,7 +88,9 @@ Coursera biedt een specifieke cursus aan op het gebied van Machine Learning. Dez
 ![Coursera verplicht onderdeel 6](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Images/Coursera%20Afbeeldingen/Machine%20Learning%20Stanford%20University%20-%20Completed%20-%206.jpg)<br>
 
 ## 5.3 Calling Bullshit<a name="calling_bullshit"></a> 
+Aan de hand van een drietal workshop genaamd "Calling bullshit in the age of big data" hebben wij de opdracht gekregen om een aantal verschillende soorten informatie kanalen te doorzoeken waarbij de informatie onjuist bleek te zijn. (link nog toevoegen)
 
+<br>
 ## 5.4 Notebooks<a name="notebooks"></a> 
 Gedurende het project waren er een aantal opdrachten die wij in de Phyton programeertaal moesten uitvoeren. Alle notebooks kunnen [hier](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/tree/master/Data/Notebooks/Python%20Notebooks) gevonden worden.
 <br>
