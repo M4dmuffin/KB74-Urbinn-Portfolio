@@ -88,7 +88,7 @@ Coursera biedt een specifieke cursus aan op het gebied van Machine Learning. Dez
 ![Coursera verplicht onderdeel 6](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Images/Coursera%20Afbeeldingen/Machine%20Learning%20Stanford%20University%20-%20Completed%20-%206.jpg)<br>
 
 ## 5.3 Calling Bullshit<a name="calling_bullshit"></a> 
-Aan de hand van een drietal workshop genaamd "Calling bullshit in the age of big data" hebben wij de opdracht gekregen om een aantal verschillende soorten informatie kanalen te doorzoeken waarbij de informatie onjuist bleek te zijn. (link nog toevoegen)
+Aan de hand van een drietal workshop genaamd "Calling bullshit in the age of big data" hebben wij de [opdracht](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Calling%20Bullshit/Opdracht%20voor%20workshops%20over%20calling%20bullshit%20in%20the%20age%20of%20big%20data(2).pdf) gekregen om een aantal verschillende soorten informatie kanalen te doorzoeken waarbij de informatie onjuist bleek te zijn. Ik heb deze opdracht uitgevoerd en de gemaakt opdrachten kunnen [hier](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/blob/master/Data/Calling%20Bullshit/Calling%20Bullshit%20Opdracht%20-%20Kevin%20van%20Veen%20-%2014077132.pdf) ingezien worden.
 
 ## 5.4 Notebooks<a name="notebooks"></a> 
 Gedurende het project waren er een aantal opdrachten die wij in de Phyton programeertaal moesten uitvoeren. Alle notebooks kunnen [hier](https://github.com/M4dmuffin/KB74-Urbinn-Portfolio/tree/master/Data/Notebooks/Python%20Notebooks) gevonden worden.
