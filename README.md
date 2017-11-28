@@ -27,7 +27,7 @@ Binnen de deze minor is gekozen om te werken met de ontwikkelmethode Scrum. Als 
 Aangezien we met de Scrum methode werken waarbij elke sprint 2 weken duurt, plannen we elke maandag een moment in om de taken, oftewel issues, voor de aankomende sprint te bepalen. Dit doen we aan de hand van de online plannings board [Waffle](https://waffle.io/urbinn/urbinn)
 De issues die in Waffle opgenomen worden zijn direct verbonden aan Git. Hierdoor worden de issues ook zichtbaar bijgehouden in [Git](https://github.com/urbinn/urbinn) 
 
-Issue [83](#83), [86](#86) en [88](#88) zijn de issues die in mijn ogen erg nuttige issues waren. Aangezien deze issues bijdragen aan de creatie van onze eigen dataset waarbij onze dataset wellicht ook andere projecten kan ondersteunen. Door gebruik te maken van bestaan materiaal en het genereren van eigen materiaal hebben wij een grote en uitgebreide dataset gecreëerd. Tevens heb ik in het onderstaande overzicht is een korte beschrijving gemaakt per issue waaraan ik heb gewerkt:
+Issue [83](#83), [86](#86) en [88](#88) zijn de issues die in mijn ogen erg nuttige issues waren. Aangezien deze issues bijdragen aan de creatie van onze eigen dataset waarbij onze dataset wellicht ook andere projecten kan ondersteunen. Door gebruik te maken van bestaand materiaal en het genereren van eigen materiaal hebben wij een grote en uitgebreide dataset gecreëerd. Daarnaast heb ik gewerkt aan een script die het mogelijk maakt om afbeeldingen inclusief de labels te spiegelen waardoor feitelijk de dataset verdubbeld kan worden. Tot slot heb ik in het onderstaande overzicht een korte beschrijving gemaakt per issue waaraan ik heb gewerkt:
 
 Issue | Omschrijving | Data
 ------------ | -------------| -------------
