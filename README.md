@@ -54,7 +54,7 @@ Issue | Omschrijving | Data
 [#115 Plan opnames Delft: Uitzoeken GPS](https://github.com/urbinn/urbinn/issues/115) | 
 [#124 Evaluatie handmatig nameten afstanden](https://github.com/urbinn/urbinn/issues/124) | 
 [#129 Labelen evaluatie set Kitti](https://github.com/urbinn/urbinn/issues/129) | 
-[#131 Urb plot trajectory](https://github.com/urbinn/urbinn/issues/131) | 
+[#131 Urb plot trajectory](https://github.com/urbinn/urbinn/issues/131) | Notebook moet nog geupdate worden 
 
 
 
